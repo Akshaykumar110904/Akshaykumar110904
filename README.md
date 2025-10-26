@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA with JAVA<br>👯 I’m looking to collaborate on Core Java<br>🤝 I’m looking for help with Spring Boot<br>🌱 I’m currently learning React<br>💬 Ask me about Java
+🔭 I’m currently working on DSA with JAVA<br>👯 I’m looking to collaborate on Java<br>🤝 I’m looking for help with Spring Boot<br>🌱 I’m currently learning React<br>💬 Ask me about Java
 
 
 ## 🌐 Socials:
